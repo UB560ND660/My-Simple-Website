@@ -34,7 +34,7 @@ button {
     font-weight: bold;
     transition: 0.3s;
     cursor: pointer;
-    background-color: blueviolet;
+    background-color: rgb(223, 226, 43);
     color: whitesmoke;
 }
 
